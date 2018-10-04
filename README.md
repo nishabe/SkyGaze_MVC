@@ -1,1 +1,1 @@
-# StarGaze_MVC
+# SkyGaze_MVC
